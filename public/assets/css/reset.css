@@ -1,0 +1,22 @@
+.dropdown-menu {
+    background-color: #02042d;
+    border-radius: 0px;
+    box-shadow: none;
+}
+
+.form-control {
+    border-radius: 0px;
+}
+
+.card-header {border-color: #02042d;}
+.card {border-radius: 0px;}
+.card-header>.card-heading {
+    color: #333;
+    background-color: #02042d;
+    border-color: #ddd;
+}
+
+.card-heading {
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
